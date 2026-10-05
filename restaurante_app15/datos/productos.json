@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "P1",
+        "nombre": "Ensumacao",
+        "categoria": "Mariscos",
+        "precio": 12.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P2",
+        "nombre": "Encocado de Pescado",
+        "categoria": "Mariscos",
+        "precio": 9.0,
+        "stock": 20
+    },
+    {
+        "codigo": "P3",
+        "nombre": "Ceviche Mixto",
+        "categoria": "Entradas",
+        "precio": 8.5,
+        "stock": 10
+    }
+]
